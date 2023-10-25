@@ -1,3 +1,4 @@
 #!/usr/bin/python3
+alphab = range(97, 123)
 for i in range(97, 123):
-    print(chr(i).format(), end="")
+    print("{}".format(chr(i)), end="")
