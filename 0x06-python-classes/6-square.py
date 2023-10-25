@@ -1,4 +1,5 @@
-re class defination"""
+#!/usr/bin/python3
+"""Square class defination"""
 
 
 class Square:
